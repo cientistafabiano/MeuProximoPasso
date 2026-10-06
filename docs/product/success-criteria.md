@@ -64,8 +64,8 @@ O próximo passo apresentado responde, no mínimo:
 
 ```text
 O quê?          → qual ação realizar
-Onde?           → em qual categoria / tarefa
-Quanto tempo?   → duração estimada
+Onde?           → em qual categoria / projeto / tarefa
+Quanto tempo?   → duração da categoria (fixa, intervalo ou "até concluir")
 ```
 
 Um próximo passo que não responde a essas perguntas ainda é uma tarefa abstrata (ver `problem.md`, seção 3).
